@@ -1,5 +1,6 @@
 {
     "name": "vc7deo/auth",
+    "version": "1.0.0",
     "description": "RBAC",
     "type": "yii2-extension",
     "keywords": ["yii2","rbac"],
