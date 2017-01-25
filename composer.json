@@ -1,0 +1,22 @@
+{
+    "name": "vc7deo/auth",
+    "description": "RBAC",
+    "type": "yii2-extension",
+    "keywords": ["yii2","rbac"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Vinod C",
+            "email": "viinodc@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "vc7deo\\auth\\": ""
+        }
+    },
+    "extra": {
+    },
+}
